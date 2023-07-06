@@ -1,0 +1,35 @@
+body{
+    background: radial-gradient(circle, rgb(5, 30, 158) 0%, rgb(93, 20, 157) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.global{
+    width: 30%;
+    height: auto;
+    background-color : #fff;
+    border: 1px solid #606060;
+    padding: 50px;
+    box-shadow: 0px 0px 10px #000;
+    margin-top: 12%;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+input [type='radio']{
+    margin-left: 1px;
+    width: 3s0px;
+    height:25px;
+}
+
+input[type ='submit']{
+    width:150px;
+}
+
+
+
+.dados{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+   color: #fff;
+}
