@@ -1,0 +1,66 @@
+	/*CORREÇÃO*/
+
+/*3 
+	 //console.log('Grandes poderes trazem grandes responsabilidades.')		
+
+*/
+
+/*4
+	const tom = 'Tom'
+	const firstTom = 'Hanks'
+	const secondTom	= 'Cruiser'
+
+	const myFavoriteTom = `${Tom} ${secondTom}`
+	//console.log(myFavoriteTom)
+
+*/
+
+/*5
+	const programminLanguage = 'JavaScript'
+//normal:
+	//const js = `${programminLanguage[0]}${programminLanguage[4]}`
+//com Slice:
+	const js = `${programminLanguage.slice(0,1)}${programminLanguage.slice(4,5)}`
+
+	//console.log(js)
+
+*/
+
+/*6
+	const mozilla = 'Mozilla Developer Network ' 
+//normal:	
+	//const mdn = `${mozilla[0]}${mozilla[8]}${mozilla[18]}`
+//Slice:
+	const mdn = `${mozilla.slice(0,1)}${mozilla.slice(8,9)}${mozilla.slice(18,19)}`
+
+	//console.log(mdn)
+
+*/
+
+/*7
+	
+//conta os caractéries.
+	//console.log(programminLanguage.length)
+
+*/
+
+/*8
+	let randomWord = 'Araponga'
+	//console.log(randomWord[randomWord.length-1])
+
+*/
+
+/*9
+	const summerMessage = 'VERÃO CHEGA NESSE FIM DE SEMANA'
+
+*/
+
+/*10
+
+
+*/
+
+/*11
+
+
+*/
