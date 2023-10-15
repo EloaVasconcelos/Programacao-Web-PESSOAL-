@@ -11,8 +11,12 @@
   "Minhas 3 séries favoritas são: SÉRIE_01, SÉRIE_02 e SÉRIE_03."
 */
 
-//const my3FavoriteTVShows =['tt', '88', 'the office']
-//console.log (my3FavoriteTVShows)
+
+const my3FavoriteTVShows = ["Gilmore Girls", "Anne With an E", "The Office"];
+const sentence = "Minhas 3 séries favoritas são: " + slicedShows.slice(0, 2).join(", ") + " e " + slicedShows.slice(2).join(", ") + ".";
+
+console.log(sentence);
+
 
 /*
   02 - Comente o console.log() acima e:
